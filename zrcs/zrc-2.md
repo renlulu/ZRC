@@ -1,24 +1,24 @@
 |  ZRC | Title | Status| Type | Author | Created (yyyy-mm-dd) | Updated (yyyy-mm-dd)
 |--|--|--|--| -- | -- | -- |
-| 2  | Standard for Fungible Tokens | Draft | Standard | Gareth Mensah <gareth@zilliqa.com> | 2019-10-10 | 2019-10-10 
+| 2  | Standard for Utility Tokens | Draft | Standard | Gareth Mensah <gareth@zilliqa.com> | 2019-10-10 | 2019-10-10 
 
 
-## I. What are Fungible Tokens?
+## I. What are Utility Tokens?
 
-Fungible Token is an open standard to create collectible assets. Unlike fungible tokens, each token is completely unique and non-interchangeable with other tokens.
+Utility tokens, also called fungible tokens or app coins, represent access to a company’s product or service, offering 'utility' within a proposed ecosystem or project.
 
 ## II. Abstract 
 
-ZRC-2 defines a minimum interface a smart contract must implement to allow unique tokens to be managed, tracked, owned, and traded. 
+ZRC-2 defines a minimum interface a smart contract must implement to allow utility tokens to be managed, tracked, owned, and traded. 
 
 
 ## III. Motivation
 
-A standard for NFT can serve as an interface for game creators to create kitties, cards or weapons; by institutions to create certifications, diplomas and identifications. Generally, NFTs can be used to represent unique and rare assets as tokens.
+A standard for utility tokens can serve as an interface for game creators to create kitties, cards or weapons; by institutions to create certifications, diplomas and identifications. Generally, NFTs can be used to represent unique and rare assets as tokens.
 
 ## IV. Specification
 
-The NFT contract specification describes: 
+The Utility Token contract specification describes: 
 1) the global error codes to be declared in the library part of the contract. 
 2) the names and types of the immutable and mutable variables (aka `fields`). 
 3) the transitions that will allow changing the values of the mutable variables. 
