@@ -1,11 +1,11 @@
 |  ZRC | Title | Status| Type | Author | Created (yyyy-mm-dd) | Updated (yyyy-mm-dd)
 |--|--|--|--| -- | -- | -- |
-| 1  | Standard for Fungible Tokens | Draft | Standard | Gareth Mensah <gareth@zilliqa.com> | 2019-10-10 | 2019-10-10 
+| 2  | Standard for Fungible Tokens | Draft | Standard | Gareth Mensah <gareth@zilliqa.com> | 2019-10-10 | 2019-10-10 
 
 
 ## I. What are Fungible Tokens?
 
-An NFT, or Non Fungible Token is an open standard to create collectible assets. Unlike fungible tokens, each token is completely unique and non-interchangeable with other tokens.
+Fungible Token is an open standard to create collectible assets. Unlike fungible tokens, each token is completely unique and non-interchangeable with other tokens.
 
 ## II. Abstract 
 
