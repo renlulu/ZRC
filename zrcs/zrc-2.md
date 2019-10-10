@@ -5,7 +5,7 @@
 
 ## I. What are Utility Tokens?
 
-Utility tokens, also called fungible tokens or app coins, represent access to a company’s product or service, offering 'utility' within a proposed ecosystem or project.
+Utility tokens, also called fungible tokens or app coins, represent access to a company’s product or service, offering 'utility' within a proposed ecosystem or project. Unlike security tokens, utility tokens do not provide the rights of ownership over a part of a company.
 
 ## II. Abstract 
 
@@ -14,7 +14,7 @@ ZRC-2 defines a minimum interface a smart contract must implement to allow utili
 
 ## III. Motivation
 
-A standard for utility tokens can serve as an interface for game creators to create kitties, cards or weapons; by institutions to create certifications, diplomas and identifications. Generally, NFTs can be used to represent unique and rare assets as tokens.
+A standard for utility tokens can serve for performing an ICO, during which a company issues a certain number of tokens that are sold to the community. The owners of the token are granted a specific right in the usage of the company’s products. This approach helps a company gain funding without losing its independence.
 
 ## IV. Specification
 
